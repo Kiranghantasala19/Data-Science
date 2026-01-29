@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 from crewai import Agent, Task, Crew, Process
 from crewai.llm import LLM
 
-# =====================================================
 # Load environment variables
 # =====================================================
 load_dotenv()
