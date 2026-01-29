@@ -1,0 +1,5 @@
+
+    LangChain is a framework for building applications with large language models.
+    RAG stands for Retrieval-Augmented Generation.
+    It improves LLM accuracy by grounding responses in external data.
+    
